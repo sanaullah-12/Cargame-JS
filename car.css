@@ -2,7 +2,7 @@ body{
     padding: 0px;
     margin: 0px;
     font-family: 'Josefin Sans', sans-serif;
-    background-image: url('gamebg.png');
+    background-image: url('./images/gamebg.png');
 
 }
 .hide{
@@ -14,7 +14,7 @@ body{
    position: absolute;
    left: 50px;
    bottom: 120px;
-   background-image: url('gamecar.png');
+   background-image: url('./images/gamecar.png');
    background-repeat: no-repeat;
    background-size: 100% 100%;
 }
@@ -74,7 +74,7 @@ body{
    position: absolute;
    left: 50px;
    bottom: 120px;
-   background-image: url('enemycar.png');
+   background-image: url('./images/enemycar.png');
    background-repeat: no-repeat;
    background-size: 100% 100%;
 }
